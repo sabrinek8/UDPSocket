@@ -1,6 +1,6 @@
 
 
-# UDP Date-Time Server-Client Example
+# UDP  Server-Client Example
 
 This repository contains a simple implementation of a UDP server and client in Java. The server listens on port 1250 and, upon receiving a UDP datagram, responds with the current date and time. The client sends an empty datagram to the server and prints the received date and time.
 
